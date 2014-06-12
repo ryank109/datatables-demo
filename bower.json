@@ -1,0 +1,15 @@
+{
+  "name": "salesoptimizer-html",
+  "version": "1.0.0",
+  "dependencies": {
+    "ember": "1.5.1",
+    "handlebars": "1.3.0",
+    "ember-data": "1.0.0-beta.7",
+    "bootstrap-sass": "~3.0.0",
+    "requirejs": "2.1.13",
+    "datatables": "1.10.0",
+    "jeditable": "1.7.3"
+  },
+  "devDependencies": {
+  }
+}
