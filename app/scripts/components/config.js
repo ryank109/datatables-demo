@@ -9,11 +9,14 @@
  * the license agreement you entered into with PROS.
  */
 define([
-    'components/datatable/DataTableComponent'
+    'components/datatable/DataTableComponent',
+    'components/datatable/TextEditorComponent'
 ], function(
-    DataTableComponent) {
+    DataTableComponent,
+    TextEditorComponent) {
 
     return {
-        DataTableComponent: DataTableComponent
+        DataTableComponent: DataTableComponent,
+        TextEditorComponent: TextEditorComponent
     };
 });
