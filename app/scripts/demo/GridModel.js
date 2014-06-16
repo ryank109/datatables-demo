@@ -7,7 +7,7 @@ define(function() {
             this._super();
 
             var columns = [];
-            for (var i = 0; i < 9; i++) {
+            for (var i = 0; i < 500; i++) {
                 columns.push({
                     sName: 'col' + i,
                     sTitle: 'Col' + i
